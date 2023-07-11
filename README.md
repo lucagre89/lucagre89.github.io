@@ -9,11 +9,11 @@ understanding of business and economic dynamics to deliver actionable insights.
 
 ## Project: classification and regression tasks on the FIFA 21 players database
 
-[Brief description of project]. ![Link to the project.](/project_fifa21)
+[Brief description of project]. ![Link to the project.](/project_fifa21/)
 
 ![](/images/fifa_height_by_position.png)
 
 
 ## Project: analysis of house prices in Germany
 
-[Brief description of project]. ![Link to the project.](https://github.com/lucagre89/lucagre89.github.io/tree/main/project_house_prices)
+[Brief description of project]. ![Link to the project.](https://github.com/lucagre89/lucagre89.github.io/tree/main/project_house_prices/)
