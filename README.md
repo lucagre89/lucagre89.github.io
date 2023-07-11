@@ -6,3 +6,8 @@ banking, insurance, aviation, railways, freight shipping, energy markets, and ph
 
 I am currently looking for opportunities to combine my data science and programming skills with my
 understanding of business and economic dynamics to deliver actionable insights.
+
+## Project: classification and regression tasks on the FIFA 21 players database
+
+![](https://github.com/lucagre89/lucagre89.github.io/blob/main/images/fifa_position_distribution.png)
+![](https://github.com/lucagre89/lucagre89.github.io/blob/main/images/fifa_height_by_position.png)
