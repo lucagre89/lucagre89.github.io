@@ -1,4 +1,4 @@
-# Data Scientist and Economist
+# Welcome
 
 I am a data scientist with a background in economics and experience in consulting, where I have applied data
 science and econometrics to tackle problems in a range of industries, including: digital markets,
