@@ -9,5 +9,5 @@ understanding of business and economic dynamics to deliver actionable insights.
 
 ## Project: classification and regression tasks on the FIFA 21 players database
 
-![](https://github.com/lucagre89/lucagre89.github.io/blob/main/images/fifa_position_distribution.png)
-![](https://github.com/lucagre89/lucagre89.github.io/blob/main/images/fifa_height_by_position.png)
+![](/images/fifa_position_distribution.png)
+![](/images/fifa_height_by_position.png)
