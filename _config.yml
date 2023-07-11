@@ -1,5 +1,5 @@
 title: Luca Grezio
-#logo: 'include relative path for profile picture'
+#logo: /assets/img/headshot.png
 description: Data Scientist and Economist
 #show_downloads: true
 theme: jekyll-theme-minimal
