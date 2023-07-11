@@ -16,4 +16,4 @@ understanding of business and economic dynamics to deliver actionable insights.
 
 ## Project: analysis of house prices in Germany
 
-[Brief description of project]. ![Link to the project.](/project_house_prices/)
+[Brief description of project]. [Link to the project.](https://github.com/lucagre89/lucagre89.github.io/tree/main/project_house_prices)
