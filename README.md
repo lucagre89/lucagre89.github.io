@@ -21,7 +21,7 @@ This is a simple analysis to showcase some classification and regression tasks p
 
 ### Project 2 - analysis of house prices in Germany
 
-This project was submitted as my dissertation for the Postgraduate Certificate in Applied Data Science at Birkbeck University. It is an investigation of the housing market in Germany from both a data science perspective and an economic perspective. The first part is more focused on data exploration and visualisations, and applies a range of standard data science techniques. The second part is more focused on model selection and studying relationships from an economic point of view, such as estimating the impact of having one additional room on the house price.
+I developed this project as part of my dissertation for the Postgraduate Certificate in Applied Data Science at Birkbeck University. It is an investigation of the housing market in Germany from both a data science perspective and an economic perspective. The first part is more focused on data exploration and visualisations, and applies a range of standard data science techniques. The second part focuses more on model selection and studying relationships between variables from an economic point of view, such as estimating the impact of having one additional room on the price of the house.
 
 [Link to the project.](https://github.com/lucagre89/lucagre89.github.io/tree/main/project_house_prices)
 
