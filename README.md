@@ -16,7 +16,7 @@ This is a simple analysis to showcase some classification and regression tasks p
 
 [Link to the project.](https://github.com/lucagre89/lucagre89.github.io/tree/main/project_fifa21)
 
-![](/images/fifa_pairwise_plots.png)
+![](/images/fifa_distribution_by_height.png)
 
 
 ### Project 2 - analysis of house prices in Germany
@@ -25,6 +25,6 @@ This project was submitted as my dissertation for the Postgraduate Certificate i
 
 [Link to the project.](https://github.com/lucagre89/lucagre89.github.io/tree/main/project_house_prices)
 
-![](/images/housing_distribution_by_type.png)
+![](/images/housing_distribution_by_house_type.png)
 
 
