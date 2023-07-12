@@ -16,7 +16,7 @@ This is a simple analysis to showcase some classification and regression tasks p
 
 [Link to the project.](https://github.com/lucagre89/lucagre89.github.io/tree/main/project_fifa21)
 
-![](/images/fifa_distribution_by_height.png)
+![](/images/fifa_height_by_position.png)
 
 
 ### Project 2 - analysis of house prices in Germany
