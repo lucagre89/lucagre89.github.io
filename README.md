@@ -12,7 +12,7 @@ Here are some projects that I worked on in the past.
 
 ### Project 1 - classification and regression tasks on the FIFA 21 players database
 
-This is a simple analysis to showcase some classification and regression tasks performed on the database of player attributes of the FIFA 21 video game. The database contains information on physical characteristics, roles and positions, skill attributes, and market values of the football players featured in the game. I use this data to perform classification tasks (such as predicting a player's position based on their skill attributes) and regression tasks (such as predicting a player's market value based on their skill atrributes and position on the pitch).
+This is a simple analysis to showcase some classification and regression tasks performed on the database of player attributes of the FIFA 21 video game. The database contains information on physical characteristics, positions, skill attributes, and market values of the football players featured in the game. I use this data to perform classification tasks (such as predicting a player's position based on their skill attributes) and regression tasks (such as predicting a player's market value based on their skill atrributes and position on the pitch).
 
 [Link to the project.](https://github.com/lucagre89/lucagre89.github.io/tree/main/project_fifa21)
 
